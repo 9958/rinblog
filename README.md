@@ -8,7 +8,7 @@ github issue中同步博客中的数据，由于数据是同步过来的，因�
 给您带来不便，请谅解！
 
 #github博客 issue地址
-issue地址：点击 <a href="https://github.com/9958/rinblog/issues">点击</a>
+issue地址：请<a href="https://github.com/9958/rinblog/issues">点击</a>
 
 #关于作者
 英文名字rin，目前就职于上海某公司。
