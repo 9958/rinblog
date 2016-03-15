@@ -14,6 +14,17 @@ issue地址：请<a href="https://github.com/9958/rinblog/issues">点击</a>
 英文名字rin，目前就职于上海某公司。
 
 
+<a href="http://blog.csdn.net/ldl_xz" target="_blank">csdn博客</a>
+
+<a href="http://www.cnblogs.com/rin9958/" target="_blank">博客园</a>
+
+<a href="http://ldl-xz.iteye.com/" target="_blank">iteye博客</a>
+
+<a href="http://my.oschina.net/u/1179286" target="_blank">开源中国博客</a>
+
+
+
+
 
 #版权声明
 本博客的所有内容，在非商业合作的情况下免费转载
