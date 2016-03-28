@@ -22,6 +22,8 @@ issue地址：请<a href="https://github.com/9958/rinblog/issues">点击</a>
 
 <a href="http://my.oschina.net/u/1179286" target="_blank">开源中国博客</a>
 
+<a href="http://blog.chinaunix.net/uid/30959623.html" target="_blank">ChinaUnix博客</a>
+
 
 
 
